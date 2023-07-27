@@ -1,6 +1,1 @@
-React intro
-
-- Front-end
-- JavaScript
-- ES6
-- React
+0x01-react_intro
