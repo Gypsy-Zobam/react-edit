@@ -1,11 +1,1 @@
-## React props
-
-### CONCEPTS:
-- Front-end
-- JavaScript
-- ES6
-- React
-
-
-
-
+0x02-react_props
